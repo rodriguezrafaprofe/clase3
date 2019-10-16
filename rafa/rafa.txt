@@ -7,5 +7,3 @@ Agregar una nueva libea
 Linea 1
 
 Linea 3 sin error
-linea 4 con error
-linea 6 sin error
